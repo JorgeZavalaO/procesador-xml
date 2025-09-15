@@ -1,0 +1,6 @@
+[
+  { "code": "01", "label": "Factura" },
+  { "code": "03", "label": "Boleta de Venta" },
+  { "code": "07", "label": "Nota de Crédito" },
+  { "code": "08", "label": "Nota de Débito" }
+]

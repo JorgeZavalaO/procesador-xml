@@ -1,0 +1,6 @@
+[
+  { "code": "10", "label": "Gravado - Operación Onerosa" },
+  { "code": "20", "label": "Exonerado - Operación Onerosa" },
+  { "code": "30", "label": "Inafecto - Operación Onerosa" },
+  { "code": "40", "label": "Exportación" }
+]
